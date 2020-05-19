@@ -10,7 +10,7 @@ import android.view.MotionEvent
 import android.view.View
 
 /**
- * Created by libo on 2017/11/28.
+ * Created by wyq on 2020/05/13.
  */
 class DrawBezierOneView : View {
     private var eventX = 0f

@@ -13,7 +13,7 @@ import android.view.animation.LinearInterpolator
 import kotlin.math.roundToInt
 
 /**
- * Created by allen on 2016/12/13.
+ * Created by wyq on 2020/05/13.
  *
  *
  * 波浪动画
